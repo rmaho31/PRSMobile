@@ -21,4 +21,4 @@ If you have issues post them in the issues tab of the repository and I'll do my 
 
 Feel free to hit me up with any questions you have.
 
-![Example](example.jpeg)
+![Example](example.jpg)
