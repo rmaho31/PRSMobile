@@ -20,3 +20,5 @@ will update as you save changes to your code.
 If you have issues post them in the issues tab of the repository and I'll do my best to find a fix.
 
 Feel free to hit me up with any questions you have.
+
+![Example](example.jpeg)
