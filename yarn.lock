@@ -4874,6 +4874,11 @@ react-native-tab-view@^1.0.0:
   dependencies:
     prop-types "^15.6.1"
 
+react-native-table-component@^1.1.8:
+  version "1.1.8"
+  resolved "https://registry.yarnpkg.com/react-native-table-component/-/react-native-table-component-1.1.8.tgz#4d0846d077914e1c608769e55a1a9e76ea32a90f"
+  integrity sha512-OBvcqF/LgcmFjcOFZ13a7xc2XvkaVCb91TQCtGD0WPLx0og9meLXOOYHuZHlGArlkV8pfoHDMeNY4QTlrdnK7g==
+
 react-native@0.57.3:
   version "0.57.3"
   resolved "https://registry.yarnpkg.com/react-native/-/react-native-0.57.3.tgz#ba395bc139f13430caa41614ac6197f8446e106e"
