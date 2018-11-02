@@ -24,10 +24,12 @@ Feel free to hit me up with any questions you have.
 ### Status
 1. Updated with list calls to the server and rendered tables
 2. To-Do
-  * Create homepage/login
-  * Create router/functional navigation
+  * Enhance homepage/login 
+  * update router/functional navigation
   * Use modals and second screens
   * Get icons for buttons
+  * update Purchase Requests to add/show associated line items
+  * refactor services
 
 ### Updated Example
 
